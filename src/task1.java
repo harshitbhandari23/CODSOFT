@@ -30,7 +30,7 @@ import java.util.*;
            s="D";
        else
            s="E";
-       System.out.println("Toatl marks:"+n*100);
+       System.out.println("Toatl marks:"+sum);
        System.out.println("Average percentage:"+per);
        System.out.println("Grade of student :"+s);
 
